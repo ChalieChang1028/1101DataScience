@@ -1,6 +1,6 @@
 # hw3. predict protein subcellular localization
 
-![PredictProtein](/images/img1.png)
+![PredictProtein](./images/img1.png)
 
 ### Name: 張修誠
 ### Student ID: 110753165
